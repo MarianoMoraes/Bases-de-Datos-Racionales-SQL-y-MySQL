@@ -1,5 +1,5 @@
 # Tasca-M1-T01
-Sprint 1 Bases de Datos Relacionales - Data Science - IT Academy
+IT Academy Barcelona - Data Science - Sprint 1 - MT01
 
 - Exercici 1
 A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que hi ha.
