@@ -1,49 +1,50 @@
-# Tasca-M1-T01
-IT Academy Barcelona - Data Science - Sprint 1 - MT01
-
-- Exercici 1
-A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que hi ha.
+# IT Academy Barcelona - Data Science - Sprint 1 - MT01
 
 
+- Exercise 1
 
-- Exercici 2
-Realitza la següent consulta sobre la base de dades acabada de crear: 
-
-Has d'obtenir el nom, el país i la data de naixement d'aquelles persones per les quals no consti una data de mort i ordenar les dades de la persona més vella a la persona més jove.
+From attached documents with structure and data, a database was created with MySQL, the objective is to show the main features of the schema created and explain the different tables and variables.
 
 
 
-- Exercici 3
-Realitza la següent consulta sobre la base de dades acabada de crear: 
 
-Has d'obtenir el nom del gènere i el nombre total de pel·lícules d'aquest gènere i ordenar-ho per ordre descendent de nombre total de pel·lícules.  
+- Exercise 2
 
+Perform queries in the database created:
 
-
-- Exercici 4
-
-Realitza la següent consulta sobre la base de dades acabada de crear: 
-
-Has d'obtenir, per a cada persona, el seu nom i el nombre màxim de rols diferents que ha tingut en una mateixa pel·lícula. 
-
-Posteriorment, mostra únicament aquelles persones que hagin assumit més d'un rol en una mateixa pel·lícula.
-
-- Exercici 5
-Realitza la següent operació sobre la base de dades acabada de crear: 
-
-Has de crear un nou gènere anomenat "Documental" el qual tingui com a identificador el nombre 69.
+Obtain the name, country and date of birth of those persons for whom no date of death or death is recorded. Subsequently sort the data to show in an orderly fashion, from the oldest to the youngest persons.
 
 
+- Exercise 3
+  
+Perform queries in the database created:
 
-- Exercici 6
-Fes la següent operació sobre la base de dades acabada de crear:  
+You have to obtain the name of the genre and the total number of movies of this genre and order it in descending order of total number of movies.  
 
-Elimina la pel·lícula "La Gran Familia Española" de la base de dades.
+- Exercise 4
+  
+Perform queries in the database created:
+
+You have to obtain, for each person, their name and the maximum number of different roles they have had in a single movie. 
+
+Subsequently, show only those people who have played more than one role in the same movie.
+
+- Exercise 5
+  
+Perform queries in the database created:
+
+You have to create a new genre called "Documentary" which has as identifier the name 69.
 
 
+- Exercise 6
+  
+Perform queries in the database created:
 
-- Exercici 7
+Remove the movie "La Gran Familia Española" from the database.
 
-Realitza la següent operació sobre la base de dades acabada de crear: 
 
-Canvia el gènere de la pel·lícula "Ocho apellidos catalanes" perquè consti com a comèdia i no com a romàntica.
+- Exercise 7
+  
+Perform queries in the database created:
+
+Change the genre of the movie "Ocho apellidos catalanes" so that it is a comedy and not a romance.
